@@ -1,3 +1,2 @@
 // lista de archivos que nunca van a pasar a la etapa de stage. Se enlistan por seguridad
 .env
-node_modules/
